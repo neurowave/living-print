@@ -1,0 +1,11 @@
+name: living-print
+main: "Living Print"
+scripting: wasm
+# tools/ holds the asset extractor and the interaction checks; not part of the build
+exclude:
+  - tools
+  - licenses
+  - build
+logs:
+  file: build/rive.log
+  problems: build/problems.log
