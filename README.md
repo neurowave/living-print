@@ -1,6 +1,6 @@
 # Living Print
 
-<!-- VIDEO: drag living-print.mp4 here -->
+https://github.com/user-attachments/assets/67a54c2a-8423-47f6-8fd7-fc6376db20ac
 
 A shoe configurator built entirely with the [Rive CLI](https://rive.app/docs/cli/overview). The control
 panel is a sheet of paper that curls through the 3D scene: its typography, scrolling pattern list, palette
